@@ -14,13 +14,8 @@ If you haven't yet enabled multi-factor authentication for AWS API access, check
 
 
 Installation:
--------------
-Option 1
-```sh
-$ pip install aws-mfa
-```
+------------
 
-Option 2
 ```sh
 1. Clone this repo
 2. $ python setup.py install
